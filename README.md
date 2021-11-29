@@ -1,6 +1,6 @@
 # Overview
 
-In this program you are asked to type in your credit card number. This program will check to see if this card numebr is real or fake.
+In this program you are asked to type in your credit card number. This program will check to see if this card number is real or fake.
 This program could be very useful for your business as well. Anybody that attempts to use a fake card will be exposed!
 
 [Demo Video](http://youtube.link.goes.here)
